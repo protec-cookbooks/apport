@@ -1,0 +1,1 @@
+default['apport']['enabled'] = true
